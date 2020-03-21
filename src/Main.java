@@ -16,7 +16,10 @@ public class Main extends Application{
 	public static void main(String[] args){
 		launch(args);
 	}	
-
+	/**
+	* The start of the project
+	* @param _stage the main window 
+	*/
 	@Override
 	public void start(Stage _stage){
 		_stage.setTitle("ESKOM Resource allocator");
