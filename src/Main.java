@@ -3,6 +3,7 @@ import UI.*;
 import javafx.application.Application;
 import javafx.stage.*;
 import javafx.scene.*;
+import javafx.scene.paint.Color;
 
 /**
 * @author Fortunate Mathale
@@ -24,7 +25,8 @@ public class Main extends Application{
 	public void start(Stage _stage){
 		_stage.setTitle("ESKOM Resource allocator");
 		UIPane uipane = new UIPane(1000,600);
-		Scene scene = new Scene(uipane,uipane.getPaneWidth(),uipane.getPaneHeight());
+		
+		Scene scene = new Scene(uipane,uipane.getPaneWidth(),uipane.getPaneHeight(),Color.DIMGREY);
 		_stage.setScene(scene);
 		_stage.show();
 	}
