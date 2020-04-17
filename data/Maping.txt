@@ -1,0 +1,7 @@
+station01#station02#12
+station02#station05#23
+station01#station05#34
+station05#station03#56
+station01#station03#13
+station05#station04#34
+station04#station06#61

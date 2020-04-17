@@ -24,7 +24,7 @@ public class Main extends Application{
 	@Override
 	public void start(Stage _stage){
 		_stage.setTitle("ESKOM Resource allocator");
-		UIPane uipane = new UIPane(1000,600);
+		UIPane uipane = new UIPane(1300,700);
 		
 		Scene scene = new Scene(uipane,uipane.getPaneWidth(),uipane.getPaneHeight(),Color.DIMGREY);
 		_stage.setScene(scene);

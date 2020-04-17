@@ -1,0 +1,11 @@
+Station01#158 Collins Street brixton#Gauteng#50x50#40000#Coal_200_50
+Station02#374 Bankers Street melvill#Gauteng#400x50#12333#Water_300_100
+Station03#234 Collins Street brixton#Gauteng#30x300#22222#Coal_233_120
+Station04#374 Bankers Street melvill#Gauteng#200x480#45556#Water_499_340
+Station05#158 Collins Street brixton#Gauteng#300x150#38888#Oil_783_23
+Station06#374 Bankers Street melvill#Gauteng#520x450#98666#Water_1000_134
+station11#address#Gauteng#200x200#100#COAL_200_100
+station11#ass#a#200x200#1000#COAL_24_12
+station12#address#Gautend#649x179#1000#WATER_200_100
+station14#address#gautenf#752x634#5000#COAL_5000_2000
+Station18#alex#Gautend#61x611#1000#COAL_29903_1009
